@@ -20,8 +20,8 @@ Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.
 
 ## Deliverables
 
-* `main.ipynb`.
-* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb` are optional challenges that will help you acquire the basics of dataframe calculation and transformation. 
+* `main.ipynb` is an optional challenge.
+* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb`. 
 
 ## Submission
 
