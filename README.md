@@ -16,11 +16,10 @@ Keep in mind the general guidelines above when you conduct data analysis in this
 
 ## Getting Started
 
-Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
+Launch `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
 
 ## Deliverables
 
-* `main.ipynb` is an optional challenge.
 * `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb`. 
 
 ## Submission
